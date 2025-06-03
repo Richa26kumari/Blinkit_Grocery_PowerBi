@@ -2,8 +2,8 @@
  "Power BI project analyzing Blinkit grocery dataset"
  # 📊 Blinkit Grocery Power BI Dashboard
 
-![Dashboard Screenshot](dashboard screenshot.jpg)
-)
+![Dashboard Screenshot]([dashboard screenshot.jpg)](https://github.com/Richa26kumari/Blinkit_Grocery_PowerBi/blob/main/dashboard%20screenshot.jpg)
+
 
 ## 🔍 Project Overview
 
